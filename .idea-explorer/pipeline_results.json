@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "stages": {
+    "resource_finder": {
+      "success": true,
+      "completion_marker": "/data/hypogenicai/workspaces/finetuning-proof-datasets-5b00/.resource_finder_complete",
+      "outputs": {
+        "literature_review": "/data/hypogenicai/workspaces/finetuning-proof-datasets-5b00/literature_review.md",
+        "resources_catalog": "/data/hypogenicai/workspaces/finetuning-proof-datasets-5b00/resources.md",
+        "papers_dir": "/data/hypogenicai/workspaces/finetuning-proof-datasets-5b00/papers",
+        "datasets_dir": "/data/hypogenicai/workspaces/finetuning-proof-datasets-5b00/datasets",
+        "code_dir": "/data/hypogenicai/workspaces/finetuning-proof-datasets-5b00/code"
+      },
+      "log_file": "/data/hypogenicai/workspaces/finetuning-proof-datasets-5b00/logs/resource_finder_claude.log",
+      "elapsed_time": 789.3331551551819
+    },
+    "experiment_runner": {
+      "success": true,
+      "return_code": 0,
+      "elapsed_time": 1896.46058177948,
+      "log_file": "/data/hypogenicai/workspaces/finetuning-proof-datasets-5b00/logs/execution_claude.log"
+    }
+  },
+  "work_dir": "/data/hypogenicai/workspaces/finetuning-proof-datasets-5b00"
+}

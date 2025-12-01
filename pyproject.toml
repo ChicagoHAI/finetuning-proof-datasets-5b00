@@ -1,0 +1,20 @@
+[project]
+name = "finetuning-proof-research"
+version = "0.1.0"
+description = "Research workspace for investigating finetuning-proof datasets"
+requires-python = ">=3.10"
+dependencies = [
+    "datasets>=2.14.0",
+    "openai>=1.0.0",
+    "anthropic>=0.25.0",
+    "google-generativeai>=0.3.0",
+    "numpy>=1.24.0",
+    "matplotlib>=3.7.0",
+    "scipy>=1.10.0",
+    "tqdm>=4.65.0",
+    "pandas>=2.0.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
