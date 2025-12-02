@@ -1,0 +1,1857 @@
+{
+  "mmlu_cf": {
+    "GPT-4o": {
+      "model": "gpt-4o",
+      "dataset": "MMLU-CF",
+      "num_questions": 100,
+      "correct": 80,
+      "accuracy": 80.0,
+      "results": [
+        {
+          "question": "The ocean that surrounded Pangaea was called:",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "What is another term for a unity gain amplifier?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "When were Social Impact Bonds introduced?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "What is the high-amplitude transient called that occurs when the input code word is applied to a D/A",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "What is the initial phase in achieving proper fuel and air mixture in the combustion chamber?",
+          "correct_answer": "B",
+          "predicted_answer": "C",
+          "is_correct": false
+        },
+        {
+          "question": "Which early sociologist highlighted that religions originate from entire tribal communities and bols",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "What is the term for the period during the first 10 minutes after phage DNA injection when no phage ",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "What is a condition or complication that arises from an original disease and persists even after the",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "The principle underlying the scapegoating theory is that ________.",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "Which of the following bacterial pathogens is not utilized as a herbicide?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "What does the training loop refer to in deep learning?",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "11-Fundamental research demonstrates the capacity to:",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "Which radioactive isotope is utilized in the treatment of leukemia?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "Which echocardiographic finding is not commonly associated with congenital partial pericardium?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "For what work did Oliver Hart and Bengt Holmstrom win the Nobel Prize in Economics in 2016?",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "Gaetano Mosca believed that every society is structured by ________ to ensure that work within the s",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "What does genome assembly depend on?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "The therapeutic approach for caring for an autistic child includes all of the following, EXCEPT:",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "According to the stipulations of the Companies Act, 1956, how long in advance must the form of proxy",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "Input offset current is essentially defined as the algebraic ______ of the base currents of two tran",
+          "correct_answer": "A",
+          "predicted_answer": "C",
+          "is_correct": false
+        },
+        {
+          "question": "Which of the following is not an official evaluation method?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "In which of the following equilibria will Kc and Kp have different values?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "In designing a constant-k low pass filter (T-section) as shown below, what would be the capacitor va",
+          "correct_answer": "A",
+          "predicted_answer": "B",
+          "is_correct": false
+        },
+        {
+          "question": "Which astronomical body's orbital calculations suggested the elliptical orbits of planets?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "What role does albumin play?",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "10-According to L\u00e9vi-Strauss, what is the logical result of prohibiting incest?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "Which of the following is not employed to purify colloids?",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "Studies show that individuals with panic disorder might have an abnormally small:",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "If the liquid limit increases in soils with the same plasticity index values, then what happens?",
+          "correct_answer": "C",
+          "predicted_answer": "A",
+          "is_correct": false
+        },
+        {
+          "question": "Under what conditions does a real gas behave like an ideal gas?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "Which of the following deals with the formation of urea in rabbits? (BHU 1994, 2007)",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "What is the set of matching tracks on all surfaces of a stack of disks called?",
+          "correct_answer": "A",
+          "predicted_answer": "C",
+          "is_correct": false
+        },
+        {
+          "question": "What is a jam nut, and how does it function as a locking device?",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "Which disease is characterized by symptoms such as polyuria, polydipsia, polyphagia, and weight loss",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "The belief that bank failures were often caused by fraud or insufficient bank capital partially expl",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": " Which of the following statements about inline functions and macros are correct? ",
+          "correct_answer": "A",
+          "predicted_answer": "D",
+          "is_correct": false
+        },
+        {
+          "question": "Which of these viruses is capable of aiding adenovirus in simian cells?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "Aggregate fruit forms from \u2026\u2026\u2026\u2026\u2026 .",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "According to the real business cycle theory, what is the cause of the decrease in investment?",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "What proposal was included in the pamphlet 'The Way Out,' issued by C. Rajagopalachari after the Qui",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "What type of condition results in contact dermatitis, characterized by allergen exposure to the epid",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "Which of the following represents the simplified sequence of the phosphorus cycle in a terrestrial e",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "Who is responsible for promoting, coordinating, and supervising the International Standard Music Num",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "Earnings per share is determined prior to accounting for which of the following items?",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "Accurate observations show that a star generally has a consistent apparent brightness, but it dims f",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "When does terminalisation of chiasmata occur?",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "What term describes the deterioration in physical abilities resulting from lifestyle choices, like p",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "Adding a significant number of entries simultaneously into an index is known as __________ of the in",
+          "correct_answer": "B",
+          "predicted_answer": "C",
+          "is_correct": false
+        },
+        {
+          "question": "Which of Hofstede's cultural dimensions does NOT influence organizational behavior?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "What is natural gas that contains significant amounts of hydrogen sulfide and carbon dioxide called?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "According to the RBI\u2019s Financial Stability Report (FSR) from June 2017, what was India\u2019s economic gr",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "Medicines are often administered in pill form. In many cases, the active ingredient of the pill (the",
+          "correct_answer": "B",
+          "predicted_answer": null,
+          "is_correct": false
+        },
+        {
+          "question": "What is the disease where the genital organs are significantly impacted by an infective helminth?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "With which stages of research is research ethics most frequently connected?",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "An ____________ comprises a search-key value and pointers to one or more records with that search-ke",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "Essentially, the poles of a transfer function are the values of the Laplace transform variable that ",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "Identify the accurate statement:",
+          "correct_answer": "C",
+          "predicted_answer": "A",
+          "is_correct": false
+        },
+        {
+          "question": "Why are concepts crucial to human thought, and how do they benefit us?",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "In a multiprogramming environment, turnaround time for short jobs is typically ________ and for long",
+          "correct_answer": "D",
+          "predicted_answer": "B",
+          "is_correct": false
+        },
+        {
+          "question": "Select the statement that is incorrect regarding dynamic memory allocation.",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "An error in _____________ occurs when the financial statements contain inaccurate details about an i",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "Which of these characteristics is not included in Weber\u2019s model of an effective government?",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "In what year was the 25th Amendment, which outlines Presidential succession, ratified by the states?",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "What is taxonomy based on chromosomal number and characteristics called?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "Acme Computers, a computer store, engages in unethical practices to redirect customers away from Cyb",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "In a home visit conducted by the nurse, she suspects that the wife and her child are experiencing ab",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "Select from the following areas where NLP can be beneficial.",
+          "correct_answer": "B",
+          "predicted_answer": "A",
+          "is_correct": false
+        },
+        {
+          "question": "In a 1997 experiment, participants were initially questioned about whether the Indian leader Mahatma",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "In the early 20th century, where was the National Rural Reconstruction Center established?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "_________ provides statistics about the query plan for a specific query.",
+          "correct_answer": "A",
+          "predicted_answer": "B",
+          "is_correct": false
+        },
+        {
+          "question": "How are L-amino acids absorbed from the intestine?",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "What structure passes through the Foramen Rotundum?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "In which areas is natural language understanding applied?",
+          "correct_answer": "A",
+          "predicted_answer": "D",
+          "is_correct": false
+        },
+        {
+          "question": "A definition of a concept is _______ if it excludes all instances that do not belong to that concept",
+          "correct_answer": "A",
+          "predicted_answer": "C",
+          "is_correct": false
+        },
+        {
+          "question": "What types of configurations can a linear SONET network have?",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "Why was determining longitude significantly more challenging for navigators a few hundred years ago ",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "Which of these statements accurately describes pull communication?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "Which of these best illustrates how sociology can be both conservative and radical?",
+          "correct_answer": "D",
+          "predicted_answer": "A",
+          "is_correct": false
+        },
+        {
+          "question": "What is the most accurate definition of ethnogenesis?",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "What characteristics of molecular sieves make them suitable for exclusion-based separation?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "Why is it unlikely for planets orbiting high-mass stars to have life?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "Which of these structures is located on the dorsal side of a male cockroach?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "How is the prevalence of T.B. infection in a community determined?",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "The target level of fiscal restraint is:",
+          "correct_answer": "D",
+          "predicted_answer": "B",
+          "is_correct": false
+        },
+        {
+          "question": "When does lipogenesis occur?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "In web mining, what technique is used to identify natural clusters of users, pages, and similar item",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "Which two assertions about the SQL Repair Advisor are accurate? (Select two.)",
+          "correct_answer": "D",
+          "predicted_answer": "C",
+          "is_correct": false
+        },
+        {
+          "question": "\u2013 (Topic 1) What protocol is used to share VLAN configuration details between two Cisco switches?",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "Which of the following demonstrates a perpendicular nature in a TEM wave?",
+          "correct_answer": "B",
+          "predicted_answer": "D",
+          "is_correct": false
+        },
+        {
+          "question": "What is the required ratio for a grocer to mix two types of tea priced at \u20b960 per kg and \u20b965 per kg ",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "A shooter has a probability of \\(\\frac{3}{4}\\) of hitting a target. What is the minimum number of sh",
+          "correct_answer": "C",
+          "predicted_answer": "D",
+          "is_correct": false
+        },
+        {
+          "question": "Manjul pointed to a lady on the platform and said, \"She is the sister of the father of my mother's s",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "What is the potential gradient along a 10 m wire with a resistance of 20\u2126 when it is connected in se",
+          "correct_answer": "A",
+          "predicted_answer": "B",
+          "is_correct": false
+        },
+        {
+          "question": "School: University of Houston Course: Managerial Accounting Which term listed below best defines a c",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "Which of the following coefficients is added as a penalty term to the loss function in Lasso regress",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "What are Giffen goods?",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "In the Davisson and Germer experiment, how can the velocity of electrons emitted from the electron g",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "What is the term for when anthropologists use their knowledge to enhance the self-determination of a",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "Given points D and E on sides AB and AC respectively of \u0394ABC such that the area of \u0394DBC equals the a",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "On what date did the Juvenile Justice (Care and Protection of Children) Act, 2015, come into effect?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        }
+      ]
+    },
+    "GPT-4": {
+      "model": "gpt-4",
+      "dataset": "MMLU-CF",
+      "num_questions": 100,
+      "correct": 68,
+      "accuracy": 68.0,
+      "results": [
+        {
+          "question": "The ocean that surrounded Pangaea was called:",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "What is another term for a unity gain amplifier?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "When were Social Impact Bonds introduced?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "What is the high-amplitude transient called that occurs when the input code word is applied to a D/A",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "What is the initial phase in achieving proper fuel and air mixture in the combustion chamber?",
+          "correct_answer": "B",
+          "predicted_answer": "A",
+          "is_correct": false
+        },
+        {
+          "question": "Which early sociologist highlighted that religions originate from entire tribal communities and bols",
+          "correct_answer": "C",
+          "predicted_answer": "D",
+          "is_correct": false
+        },
+        {
+          "question": "What is the term for the period during the first 10 minutes after phage DNA injection when no phage ",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "What is a condition or complication that arises from an original disease and persists even after the",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "The principle underlying the scapegoating theory is that ________.",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "Which of the following bacterial pathogens is not utilized as a herbicide?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "What does the training loop refer to in deep learning?",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "11-Fundamental research demonstrates the capacity to:",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "Which radioactive isotope is utilized in the treatment of leukemia?",
+          "correct_answer": "C",
+          "predicted_answer": "B",
+          "is_correct": false
+        },
+        {
+          "question": "Which echocardiographic finding is not commonly associated with congenital partial pericardium?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "For what work did Oliver Hart and Bengt Holmstrom win the Nobel Prize in Economics in 2016?",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "Gaetano Mosca believed that every society is structured by ________ to ensure that work within the s",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "What does genome assembly depend on?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "The therapeutic approach for caring for an autistic child includes all of the following, EXCEPT:",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "According to the stipulations of the Companies Act, 1956, how long in advance must the form of proxy",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "Input offset current is essentially defined as the algebraic ______ of the base currents of two tran",
+          "correct_answer": "A",
+          "predicted_answer": "C",
+          "is_correct": false
+        },
+        {
+          "question": "Which of the following is not an official evaluation method?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "In which of the following equilibria will Kc and Kp have different values?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "In designing a constant-k low pass filter (T-section) as shown below, what would be the capacitor va",
+          "correct_answer": "A",
+          "predicted_answer": "B",
+          "is_correct": false
+        },
+        {
+          "question": "Which astronomical body's orbital calculations suggested the elliptical orbits of planets?",
+          "correct_answer": "C",
+          "predicted_answer": "A",
+          "is_correct": false
+        },
+        {
+          "question": "What role does albumin play?",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "10-According to L\u00e9vi-Strauss, what is the logical result of prohibiting incest?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "Which of the following is not employed to purify colloids?",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "Studies show that individuals with panic disorder might have an abnormally small:",
+          "correct_answer": "C",
+          "predicted_answer": "A",
+          "is_correct": false
+        },
+        {
+          "question": "If the liquid limit increases in soils with the same plasticity index values, then what happens?",
+          "correct_answer": "C",
+          "predicted_answer": "A",
+          "is_correct": false
+        },
+        {
+          "question": "Under what conditions does a real gas behave like an ideal gas?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "Which of the following deals with the formation of urea in rabbits? (BHU 1994, 2007)",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "What is the set of matching tracks on all surfaces of a stack of disks called?",
+          "correct_answer": "A",
+          "predicted_answer": "D",
+          "is_correct": false
+        },
+        {
+          "question": "What is a jam nut, and how does it function as a locking device?",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "Which disease is characterized by symptoms such as polyuria, polydipsia, polyphagia, and weight loss",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "The belief that bank failures were often caused by fraud or insufficient bank capital partially expl",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": " Which of the following statements about inline functions and macros are correct? ",
+          "correct_answer": "A",
+          "predicted_answer": "D",
+          "is_correct": false
+        },
+        {
+          "question": "Which of these viruses is capable of aiding adenovirus in simian cells?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "Aggregate fruit forms from \u2026\u2026\u2026\u2026\u2026 .",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "According to the real business cycle theory, what is the cause of the decrease in investment?",
+          "correct_answer": "D",
+          "predicted_answer": "B",
+          "is_correct": false
+        },
+        {
+          "question": "What proposal was included in the pamphlet 'The Way Out,' issued by C. Rajagopalachari after the Qui",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "What type of condition results in contact dermatitis, characterized by allergen exposure to the epid",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "Which of the following represents the simplified sequence of the phosphorus cycle in a terrestrial e",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "Who is responsible for promoting, coordinating, and supervising the International Standard Music Num",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "Earnings per share is determined prior to accounting for which of the following items?",
+          "correct_answer": "B",
+          "predicted_answer": "C",
+          "is_correct": false
+        },
+        {
+          "question": "Accurate observations show that a star generally has a consistent apparent brightness, but it dims f",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "When does terminalisation of chiasmata occur?",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "What term describes the deterioration in physical abilities resulting from lifestyle choices, like p",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "Adding a significant number of entries simultaneously into an index is known as __________ of the in",
+          "correct_answer": "B",
+          "predicted_answer": "C",
+          "is_correct": false
+        },
+        {
+          "question": "Which of Hofstede's cultural dimensions does NOT influence organizational behavior?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "What is natural gas that contains significant amounts of hydrogen sulfide and carbon dioxide called?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "According to the RBI\u2019s Financial Stability Report (FSR) from June 2017, what was India\u2019s economic gr",
+          "correct_answer": "C",
+          "predicted_answer": "A",
+          "is_correct": false
+        },
+        {
+          "question": "Medicines are often administered in pill form. In many cases, the active ingredient of the pill (the",
+          "correct_answer": "B",
+          "predicted_answer": null,
+          "is_correct": false
+        },
+        {
+          "question": "What is the disease where the genital organs are significantly impacted by an infective helminth?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "With which stages of research is research ethics most frequently connected?",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "An ____________ comprises a search-key value and pointers to one or more records with that search-ke",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "Essentially, the poles of a transfer function are the values of the Laplace transform variable that ",
+          "correct_answer": "C",
+          "predicted_answer": "B",
+          "is_correct": false
+        },
+        {
+          "question": "Identify the accurate statement:",
+          "correct_answer": "C",
+          "predicted_answer": "D",
+          "is_correct": false
+        },
+        {
+          "question": "Why are concepts crucial to human thought, and how do they benefit us?",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "In a multiprogramming environment, turnaround time for short jobs is typically ________ and for long",
+          "correct_answer": "D",
+          "predicted_answer": "B",
+          "is_correct": false
+        },
+        {
+          "question": "Select the statement that is incorrect regarding dynamic memory allocation.",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "An error in _____________ occurs when the financial statements contain inaccurate details about an i",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "Which of these characteristics is not included in Weber\u2019s model of an effective government?",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "In what year was the 25th Amendment, which outlines Presidential succession, ratified by the states?",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "What is taxonomy based on chromosomal number and characteristics called?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "Acme Computers, a computer store, engages in unethical practices to redirect customers away from Cyb",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "In a home visit conducted by the nurse, she suspects that the wife and her child are experiencing ab",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "Select from the following areas where NLP can be beneficial.",
+          "correct_answer": "B",
+          "predicted_answer": "A",
+          "is_correct": false
+        },
+        {
+          "question": "In a 1997 experiment, participants were initially questioned about whether the Indian leader Mahatma",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "In the early 20th century, where was the National Rural Reconstruction Center established?",
+          "correct_answer": "C",
+          "predicted_answer": "B",
+          "is_correct": false
+        },
+        {
+          "question": "_________ provides statistics about the query plan for a specific query.",
+          "correct_answer": "A",
+          "predicted_answer": "B",
+          "is_correct": false
+        },
+        {
+          "question": "How are L-amino acids absorbed from the intestine?",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "What structure passes through the Foramen Rotundum?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "In which areas is natural language understanding applied?",
+          "correct_answer": "A",
+          "predicted_answer": "D",
+          "is_correct": false
+        },
+        {
+          "question": "A definition of a concept is _______ if it excludes all instances that do not belong to that concept",
+          "correct_answer": "A",
+          "predicted_answer": "D",
+          "is_correct": false
+        },
+        {
+          "question": "What types of configurations can a linear SONET network have?",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "Why was determining longitude significantly more challenging for navigators a few hundred years ago ",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "Which of these statements accurately describes pull communication?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "Which of these best illustrates how sociology can be both conservative and radical?",
+          "correct_answer": "D",
+          "predicted_answer": "A",
+          "is_correct": false
+        },
+        {
+          "question": "What is the most accurate definition of ethnogenesis?",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "What characteristics of molecular sieves make them suitable for exclusion-based separation?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "Why is it unlikely for planets orbiting high-mass stars to have life?",
+          "correct_answer": "C",
+          "predicted_answer": "C",
+          "is_correct": true
+        },
+        {
+          "question": "Which of these structures is located on the dorsal side of a male cockroach?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "How is the prevalence of T.B. infection in a community determined?",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "The target level of fiscal restraint is:",
+          "correct_answer": "D",
+          "predicted_answer": "B",
+          "is_correct": false
+        },
+        {
+          "question": "When does lipogenesis occur?",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "In web mining, what technique is used to identify natural clusters of users, pages, and similar item",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "Which two assertions about the SQL Repair Advisor are accurate? (Select two.)",
+          "correct_answer": "D",
+          "predicted_answer": "B",
+          "is_correct": false
+        },
+        {
+          "question": "\u2013 (Topic 1) What protocol is used to share VLAN configuration details between two Cisco switches?",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "Which of the following demonstrates a perpendicular nature in a TEM wave?",
+          "correct_answer": "B",
+          "predicted_answer": "D",
+          "is_correct": false
+        },
+        {
+          "question": "What is the required ratio for a grocer to mix two types of tea priced at \u20b960 per kg and \u20b965 per kg ",
+          "correct_answer": "A",
+          "predicted_answer": "B",
+          "is_correct": false
+        },
+        {
+          "question": "A shooter has a probability of \\(\\frac{3}{4}\\) of hitting a target. What is the minimum number of sh",
+          "correct_answer": "C",
+          "predicted_answer": "D",
+          "is_correct": false
+        },
+        {
+          "question": "Manjul pointed to a lady on the platform and said, \"She is the sister of the father of my mother's s",
+          "correct_answer": "A",
+          "predicted_answer": "D",
+          "is_correct": false
+        },
+        {
+          "question": "What is the potential gradient along a 10 m wire with a resistance of 20\u2126 when it is connected in se",
+          "correct_answer": "A",
+          "predicted_answer": "B",
+          "is_correct": false
+        },
+        {
+          "question": "School: University of Houston Course: Managerial Accounting Which term listed below best defines a c",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "Which of the following coefficients is added as a penalty term to the loss function in Lasso regress",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "What are Giffen goods?",
+          "correct_answer": "D",
+          "predicted_answer": "D",
+          "is_correct": true
+        },
+        {
+          "question": "In the Davisson and Germer experiment, how can the velocity of electrons emitted from the electron g",
+          "correct_answer": "B",
+          "predicted_answer": "B",
+          "is_correct": true
+        },
+        {
+          "question": "What is the term for when anthropologists use their knowledge to enhance the self-determination of a",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "Given points D and E on sides AB and AC respectively of \u0394ABC such that the area of \u0394DBC equals the a",
+          "correct_answer": "A",
+          "predicted_answer": "A",
+          "is_correct": true
+        },
+        {
+          "question": "On what date did the Juvenile Justice (Care and Protection of Children) Act, 2015, come into effect?",
+          "correct_answer": "C",
+          "predicted_answer": "B",
+          "is_correct": false
+        }
+      ]
+    },
+    "Claude Sonnet 4.5": {
+      "model": "anthropic/claude-sonnet-4-5",
+      "dataset": "MMLU-CF",
+      "num_questions": 100,
+      "correct": 0,
+      "accuracy": 0.0,
+      "results": []
+    }
+  },
+  "gsm_symbolic": {
+    "GPT-4o": {
+      "model": "gpt-4o",
+      "dataset": "GSM-Symbolic",
+      "num_problems": 50,
+      "correct": 27,
+      "accuracy": 54.0,
+      "results": [
+        {
+          "question": "A fog bank rolls in from the ocean to cover a city. It takes 241 minutes to cover every 5 miles of t",
+          "reference_answer": 4097,
+          "predicted_answer": 4097,
+          "is_correct": true
+        },
+        {
+          "question": "Comet Hyakutake orbits the sun every 80 years. Arash's uncle saw the Comet when he was 21 years old.",
+          "reference_answer": 4,
+          "predicted_answer": 63,
+          "is_correct": false
+        },
+        {
+          "question": "Yusuf has 9 tubes of blue paint and 15 tubes of indigo paint. Luis has four-sixths as many tubes of ",
+          "reference_answer": 51,
+          "predicted_answer": 54,
+          "is_correct": false
+        },
+        {
+          "question": "Kimia went to their greenhouse to pick some blueberries and found ten times as many beetles as grass",
+          "reference_answer": 1925,
+          "predicted_answer": 1925,
+          "is_correct": true
+        },
+        {
+          "question": "Gabriel hid 6 dozen eggs in the yard for the Easter egg hunt. Mateo finds 3 eggs. Sakura finds six t",
+          "reference_answer": 30,
+          "predicted_answer": 37,
+          "is_correct": false
+        },
+        {
+          "question": "Gabrielle receives 175 emails a day. 8% of those emails don't require any response. Gabrielle respon",
+          "reference_answer": 966,
+          "predicted_answer": 966,
+          "is_correct": true
+        },
+        {
+          "question": "Olga is required to submit a 207-page report. She already finished writing 1/3 of the report. How ma",
+          "reference_answer": 138,
+          "predicted_answer": 138,
+          "is_correct": true
+        },
+        {
+          "question": "The Brown family is busy making cupcakes. So far, they've made 6725 cupcakes. They have 2066 peanut ",
+          "reference_answer": 2089,
+          "predicted_answer": 2089,
+          "is_correct": true
+        },
+        {
+          "question": "Arash is raising money for a field trip. He has applied for help from the school, which has decided ",
+          "reference_answer": 50,
+          "predicted_answer": 50,
+          "is_correct": true
+        },
+        {
+          "question": "Olivia's dog has 955 puppies, 250 of which have spots. Yuki's dog has 645 puppies, 150 of which have",
+          "reference_answer": 25,
+          "predicted_answer": 25,
+          "is_correct": true
+        },
+        {
+          "question": "Valeria is popping popcorn for a snack. As the pan of kernels heats up, the kernels start popping fa",
+          "reference_answer": 315,
+          "predicted_answer": 225,
+          "is_correct": false
+        },
+        {
+          "question": "Keisha has 6 jars of sprinkles in her pantry. Each jar of sprinkles can decorate 6 cupcakes. Keisha ",
+          "reference_answer": 6,
+          "predicted_answer": 6,
+          "is_correct": true
+        },
+        {
+          "question": "Liam is rolling a twenty-sided die. How much more likely is it (expressed as a percentage) that he r",
+          "reference_answer": 55,
+          "predicted_answer": 45,
+          "is_correct": false
+        },
+        {
+          "question": "750 people apply for a job at Netflix. Of the people that apply, only 16% receive interviews. Of tho",
+          "reference_answer": 6,
+          "predicted_answer": 6,
+          "is_correct": true
+        },
+        {
+          "question": "Xena and Haruka are sisters from Cape Town who love collecting signatures from authors. During their",
+          "reference_answer": 62,
+          "predicted_answer": 62,
+          "is_correct": true
+        },
+        {
+          "question": "Jamal has \u00a571.19 and wants to buy 31 nuts from a bin at the hardware store. Each nut costs \u00a50.49. Ho",
+          "reference_answer": 56,
+          "predicted_answer": 56,
+          "is_correct": true
+        },
+        {
+          "question": "Tariq receives 125 emails a day. 36% of those emails don't require any response. Tariq responds to t",
+          "reference_answer": 480,
+          "predicted_answer": 480,
+          "is_correct": true
+        },
+        {
+          "question": "Keisha went to the cafe and bought various types of treats. She bought 8 dozen danishes which cost $",
+          "reference_answer": 1306,
+          "predicted_answer": 1508,
+          "is_correct": false
+        },
+        {
+          "question": "Viktor is popping popcorn for a snack. As the pot of kernels heats up, the kernels start popping fas",
+          "reference_answer": 105,
+          "predicted_answer": 70,
+          "is_correct": false
+        },
+        {
+          "question": "When Roya watches her nephew, she gets out a variety of toys for him. The bag of building blocks has",
+          "reference_answer": 70,
+          "predicted_answer": 70,
+          "is_correct": true
+        },
+        {
+          "question": "A loaf of bread at the bakery costs \u20ac4. Bagels cost \u20ac1 each. How much more do 8 loaves of bread cost",
+          "reference_answer": 24,
+          "predicted_answer": 24,
+          "is_correct": true
+        },
+        {
+          "question": "Ms. Johnson is looking for a apartment that will not go beyond her $380000 budget. She saw a propert",
+          "reference_answer": 38100,
+          "predicted_answer": 23000,
+          "is_correct": false
+        },
+        {
+          "question": "There are 83 fifth-graders at Pine Valley School. 58 of them are girls. On Friday, 5 fifth-grade gir",
+          "reference_answer": 20,
+          "predicted_answer": 20,
+          "is_correct": true
+        },
+        {
+          "question": "There are 15 girls in the garden. If there are one-fifth the number of boys in the garden, how many ",
+          "reference_answer": 18,
+          "predicted_answer": 18,
+          "is_correct": true
+        },
+        {
+          "question": "Uma is learning to write and decides to keep re-writing the hiragana (with 48 letters) until she kno",
+          "reference_answer": 704,
+          "predicted_answer": 816,
+          "is_correct": false
+        },
+        {
+          "question": "Yusuf went to buy some school supplies. He bought 8 notebooks which cost \u20ba7.0 each, 12 crayons which",
+          "reference_answer": 274,
+          "predicted_answer": 297,
+          "is_correct": false
+        },
+        {
+          "question": "Qasim watches TV after he finishes his homework every night. On Thursday and Friday, he watched a 4-",
+          "reference_answer": 5,
+          "predicted_answer": 4,
+          "is_correct": false
+        },
+        {
+          "question": "A loaf of bread at the bakery costs \u20ac7. Bagels cost \u20ac3 each. How much more do 8 loaves of bread cost",
+          "reference_answer": 50,
+          "predicted_answer": 50,
+          "is_correct": true
+        },
+        {
+          "question": "Emma is trying to decide whether to do her financial planning herself or hire one bookkeeper. If she",
+          "reference_answer": 246,
+          "predicted_answer": 246,
+          "is_correct": true
+        },
+        {
+          "question": "Mia went to the beach for vacation. Her parents gave her \u20a31200 to buy whatever she wanted. At the so",
+          "reference_answer": 423,
+          "predicted_answer": 573,
+          "is_correct": false
+        },
+        {
+          "question": "Chen is learning to write and decides to keep re-writing the farsi alphabet (with 32 letters) until ",
+          "reference_answer": 480,
+          "predicted_answer": 496,
+          "is_correct": false
+        },
+        {
+          "question": "Mia and Kai are currently 18 years apart in age. If Mia, who is younger than Kai, is 62 years old, w",
+          "reference_answer": 71,
+          "predicted_answer": 71,
+          "is_correct": true
+        },
+        {
+          "question": "Fatima buys 6 shares of a stock for \u20ac35 each. The stock price increases 60% the first year Fatima ho",
+          "reference_answer": 252,
+          "predicted_answer": 189,
+          "is_correct": false
+        },
+        {
+          "question": "When Ava watches her brother, she gets out a variety of toys for him. The bag of building blocks has",
+          "reference_answer": 42,
+          "predicted_answer": 42,
+          "is_correct": true
+        },
+        {
+          "question": "At Jamal's house, there are five times as many bananas as pears. He has a total of 49 pears in his h",
+          "reference_answer": 395,
+          "predicted_answer": 364,
+          "is_correct": false
+        },
+        {
+          "question": "Mr. Martinez sold his cottage for $380000. He paid the transfer fees that amount to 1% of the sellin",
+          "reference_answer": 177200,
+          "predicted_answer": 182200,
+          "is_correct": false
+        },
+        {
+          "question": "Mohammed and Esteban have 126 minutes to walk to the park together. It takes them 13 minutes to get ",
+          "reference_answer": 95,
+          "predicted_answer": 95,
+          "is_correct": true
+        },
+        {
+          "question": "Leon hires a party bus from 4 PM to 11 PM. He gets 1 hours free. The first paid hour is \u20ac23 and each",
+          "reference_answer": 253,
+          "predicted_answer": 161,
+          "is_correct": false
+        },
+        {
+          "question": "Alejandro goes to the store to buy some tea. The normal brand of tea he buys costs $24 per kilogram.",
+          "reference_answer": 423,
+          "predicted_answer": 63,
+          "is_correct": false
+        },
+        {
+          "question": "A class of 107 students has various hobbies. 15 like to paint, 20 like to play tennis, and the rest ",
+          "reference_answer": 32,
+          "predicted_answer": 52,
+          "is_correct": false
+        },
+        {
+          "question": "A class of 177 students has various hobbies. 26 like to hike, 31 like to play football, and the rest",
+          "reference_answer": 58,
+          "predicted_answer": 89,
+          "is_correct": false
+        },
+        {
+          "question": "Fatima receives 120 emails a day. 20% of those emails don't require any response. Fatima responds to",
+          "reference_answer": 288,
+          "predicted_answer": 288,
+          "is_correct": true
+        },
+        {
+          "question": "Jamal collects garbage from 4 different apartment complexes. The first 3 have 450 apartments each an",
+          "reference_answer": 3645,
+          "predicted_answer": 1,
+          "is_correct": false
+        },
+        {
+          "question": "I have 12 liters of mango drink that are three-fourths water and I wish to add it to 21 liters of ap",
+          "reference_answer": 20,
+          "predicted_answer": 19,
+          "is_correct": false
+        },
+        {
+          "question": "Hiroshi and Rania have 81 minutes to walk to the gym together. It takes them 13 minutes to get to th",
+          "reference_answer": 55,
+          "predicted_answer": 55,
+          "is_correct": true
+        },
+        {
+          "question": "When Roya watches her cousin, she gets out a variety of toys for him. The bag of building blocks has",
+          "reference_answer": 78,
+          "predicted_answer": 78,
+          "is_correct": true
+        },
+        {
+          "question": "Nadia buys 10 shares of a stock for \u00a575 each. The stock price increases 40% the first year Nadia hol",
+          "reference_answer": 630,
+          "predicted_answer": 750,
+          "is_correct": false
+        },
+        {
+          "question": "The Charity fundraiser team hid 190 goodies. The Lopez twins each found 27 goodies. All the other go",
+          "reference_answer": 126,
+          "predicted_answer": 126,
+          "is_correct": true
+        },
+        {
+          "question": "Kimia is trying to decide whether to do her business accounting herself or hire one bookkeeper. If s",
+          "reference_answer": 600,
+          "predicted_answer": 600,
+          "is_correct": true
+        },
+        {
+          "question": "The Williams family is busy making muffins. So far, they've made 9950 muffins. They have 1555 bluebe",
+          "reference_answer": 5531,
+          "predicted_answer": 5531,
+          "is_correct": true
+        }
+      ]
+    },
+    "GPT-4": {
+      "model": "gpt-4",
+      "dataset": "GSM-Symbolic",
+      "num_problems": 50,
+      "correct": 23,
+      "accuracy": 46.0,
+      "results": [
+        {
+          "question": "A fog bank rolls in from the ocean to cover a city. It takes 241 minutes to cover every 5 miles of t",
+          "reference_answer": 4097,
+          "predicted_answer": 4097,
+          "is_correct": true
+        },
+        {
+          "question": "Comet Hyakutake orbits the sun every 80 years. Arash's uncle saw the Comet when he was 21 years old.",
+          "reference_answer": 4,
+          "predicted_answer": 84,
+          "is_correct": false
+        },
+        {
+          "question": "Yusuf has 9 tubes of blue paint and 15 tubes of indigo paint. Luis has four-sixths as many tubes of ",
+          "reference_answer": 51,
+          "predicted_answer": 36,
+          "is_correct": false
+        },
+        {
+          "question": "Kimia went to their greenhouse to pick some blueberries and found ten times as many beetles as grass",
+          "reference_answer": 1925,
+          "predicted_answer": 1925,
+          "is_correct": true
+        },
+        {
+          "question": "Gabriel hid 6 dozen eggs in the yard for the Easter egg hunt. Mateo finds 3 eggs. Sakura finds six t",
+          "reference_answer": 30,
+          "predicted_answer": 56,
+          "is_correct": false
+        },
+        {
+          "question": "Gabrielle receives 175 emails a day. 8% of those emails don't require any response. Gabrielle respon",
+          "reference_answer": 966,
+          "predicted_answer": 966,
+          "is_correct": true
+        },
+        {
+          "question": "Olga is required to submit a 207-page report. She already finished writing 1/3 of the report. How ma",
+          "reference_answer": 138,
+          "predicted_answer": 138,
+          "is_correct": true
+        },
+        {
+          "question": "The Brown family is busy making cupcakes. So far, they've made 6725 cupcakes. They have 2066 peanut ",
+          "reference_answer": 2089,
+          "predicted_answer": 2089,
+          "is_correct": true
+        },
+        {
+          "question": "Arash is raising money for a field trip. He has applied for help from the school, which has decided ",
+          "reference_answer": 50,
+          "predicted_answer": 120,
+          "is_correct": false
+        },
+        {
+          "question": "Olivia's dog has 955 puppies, 250 of which have spots. Yuki's dog has 645 puppies, 150 of which have",
+          "reference_answer": 25,
+          "predicted_answer": 28,
+          "is_correct": false
+        },
+        {
+          "question": "Valeria is popping popcorn for a snack. As the pan of kernels heats up, the kernels start popping fa",
+          "reference_answer": 315,
+          "predicted_answer": 210,
+          "is_correct": false
+        },
+        {
+          "question": "Keisha has 6 jars of sprinkles in her pantry. Each jar of sprinkles can decorate 6 cupcakes. Keisha ",
+          "reference_answer": 6,
+          "predicted_answer": 6,
+          "is_correct": true
+        },
+        {
+          "question": "Liam is rolling a twenty-sided die. How much more likely is it (expressed as a percentage) that he r",
+          "reference_answer": 55,
+          "predicted_answer": 75,
+          "is_correct": false
+        },
+        {
+          "question": "750 people apply for a job at Netflix. Of the people that apply, only 16% receive interviews. Of tho",
+          "reference_answer": 6,
+          "predicted_answer": 15,
+          "is_correct": false
+        },
+        {
+          "question": "Xena and Haruka are sisters from Cape Town who love collecting signatures from authors. During their",
+          "reference_answer": 62,
+          "predicted_answer": 62,
+          "is_correct": true
+        },
+        {
+          "question": "Jamal has \u00a571.19 and wants to buy 31 nuts from a bin at the hardware store. Each nut costs \u00a50.49. Ho",
+          "reference_answer": 56,
+          "predicted_answer": 55,
+          "is_correct": false
+        },
+        {
+          "question": "Tariq receives 125 emails a day. 36% of those emails don't require any response. Tariq responds to t",
+          "reference_answer": 480,
+          "predicted_answer": 540,
+          "is_correct": false
+        },
+        {
+          "question": "Keisha went to the cafe and bought various types of treats. She bought 8 dozen danishes which cost $",
+          "reference_answer": 1306,
+          "predicted_answer": 1566,
+          "is_correct": false
+        },
+        {
+          "question": "Viktor is popping popcorn for a snack. As the pot of kernels heats up, the kernels start popping fas",
+          "reference_answer": 105,
+          "predicted_answer": 94,
+          "is_correct": false
+        },
+        {
+          "question": "When Roya watches her nephew, she gets out a variety of toys for him. The bag of building blocks has",
+          "reference_answer": 70,
+          "predicted_answer": 70,
+          "is_correct": true
+        },
+        {
+          "question": "A loaf of bread at the bakery costs \u20ac4. Bagels cost \u20ac1 each. How much more do 8 loaves of bread cost",
+          "reference_answer": 24,
+          "predicted_answer": 24,
+          "is_correct": true
+        },
+        {
+          "question": "Ms. Johnson is looking for a apartment that will not go beyond her $380000 budget. She saw a propert",
+          "reference_answer": 38100,
+          "predicted_answer": 30000,
+          "is_correct": false
+        },
+        {
+          "question": "There are 83 fifth-graders at Pine Valley School. 58 of them are girls. On Friday, 5 fifth-grade gir",
+          "reference_answer": 20,
+          "predicted_answer": 15,
+          "is_correct": false
+        },
+        {
+          "question": "There are 15 girls in the garden. If there are one-fifth the number of boys in the garden, how many ",
+          "reference_answer": 18,
+          "predicted_answer": 18,
+          "is_correct": true
+        },
+        {
+          "question": "Uma is learning to write and decides to keep re-writing the hiragana (with 48 letters) until she kno",
+          "reference_answer": 704,
+          "predicted_answer": 1056,
+          "is_correct": false
+        },
+        {
+          "question": "Yusuf went to buy some school supplies. He bought 8 notebooks which cost \u20ba7.0 each, 12 crayons which",
+          "reference_answer": 274,
+          "predicted_answer": 201,
+          "is_correct": false
+        },
+        {
+          "question": "Qasim watches TV after he finishes his homework every night. On Thursday and Friday, he watched a 4-",
+          "reference_answer": 5,
+          "predicted_answer": 12,
+          "is_correct": false
+        },
+        {
+          "question": "A loaf of bread at the bakery costs \u20ac7. Bagels cost \u20ac3 each. How much more do 8 loaves of bread cost",
+          "reference_answer": 50,
+          "predicted_answer": 50,
+          "is_correct": true
+        },
+        {
+          "question": "Emma is trying to decide whether to do her financial planning herself or hire one bookkeeper. If she",
+          "reference_answer": 246,
+          "predicted_answer": 246,
+          "is_correct": true
+        },
+        {
+          "question": "Mia went to the beach for vacation. Her parents gave her \u20a31200 to buy whatever she wanted. At the so",
+          "reference_answer": 423,
+          "predicted_answer": 815,
+          "is_correct": false
+        },
+        {
+          "question": "Chen is learning to write and decides to keep re-writing the farsi alphabet (with 32 letters) until ",
+          "reference_answer": 480,
+          "predicted_answer": 480,
+          "is_correct": true
+        },
+        {
+          "question": "Mia and Kai are currently 18 years apart in age. If Mia, who is younger than Kai, is 62 years old, w",
+          "reference_answer": 71,
+          "predicted_answer": 71,
+          "is_correct": true
+        },
+        {
+          "question": "Fatima buys 6 shares of a stock for \u20ac35 each. The stock price increases 60% the first year Fatima ho",
+          "reference_answer": 252,
+          "predicted_answer": 252,
+          "is_correct": true
+        },
+        {
+          "question": "When Ava watches her brother, she gets out a variety of toys for him. The bag of building blocks has",
+          "reference_answer": 42,
+          "predicted_answer": 42,
+          "is_correct": true
+        },
+        {
+          "question": "At Jamal's house, there are five times as many bananas as pears. He has a total of 49 pears in his h",
+          "reference_answer": 395,
+          "predicted_answer": 364,
+          "is_correct": false
+        },
+        {
+          "question": "Mr. Martinez sold his cottage for $380000. He paid the transfer fees that amount to 1% of the sellin",
+          "reference_answer": 177200,
+          "predicted_answer": 160000,
+          "is_correct": false
+        },
+        {
+          "question": "Mohammed and Esteban have 126 minutes to walk to the park together. It takes them 13 minutes to get ",
+          "reference_answer": 95,
+          "predicted_answer": 95,
+          "is_correct": true
+        },
+        {
+          "question": "Leon hires a party bus from 4 PM to 11 PM. He gets 1 hours free. The first paid hour is \u20ac23 and each",
+          "reference_answer": 253,
+          "predicted_answer": 161,
+          "is_correct": false
+        },
+        {
+          "question": "Alejandro goes to the store to buy some tea. The normal brand of tea he buys costs $24 per kilogram.",
+          "reference_answer": 423,
+          "predicted_answer": 189,
+          "is_correct": false
+        },
+        {
+          "question": "A class of 107 students has various hobbies. 15 like to paint, 20 like to play tennis, and the rest ",
+          "reference_answer": 32,
+          "predicted_answer": 52,
+          "is_correct": false
+        },
+        {
+          "question": "A class of 177 students has various hobbies. 26 like to hike, 31 like to play football, and the rest",
+          "reference_answer": 58,
+          "predicted_answer": 90,
+          "is_correct": false
+        },
+        {
+          "question": "Fatima receives 120 emails a day. 20% of those emails don't require any response. Fatima responds to",
+          "reference_answer": 288,
+          "predicted_answer": 216,
+          "is_correct": false
+        },
+        {
+          "question": "Jamal collects garbage from 4 different apartment complexes. The first 3 have 450 apartments each an",
+          "reference_answer": 3645,
+          "predicted_answer": 1680,
+          "is_correct": false
+        },
+        {
+          "question": "I have 12 liters of mango drink that are three-fourths water and I wish to add it to 21 liters of ap",
+          "reference_answer": 20,
+          "predicted_answer": 20,
+          "is_correct": true
+        },
+        {
+          "question": "Hiroshi and Rania have 81 minutes to walk to the gym together. It takes them 13 minutes to get to th",
+          "reference_answer": 55,
+          "predicted_answer": 55,
+          "is_correct": true
+        },
+        {
+          "question": "When Roya watches her cousin, she gets out a variety of toys for him. The bag of building blocks has",
+          "reference_answer": 78,
+          "predicted_answer": 78,
+          "is_correct": true
+        },
+        {
+          "question": "Nadia buys 10 shares of a stock for \u00a575 each. The stock price increases 40% the first year Nadia hol",
+          "reference_answer": 630,
+          "predicted_answer": 600,
+          "is_correct": false
+        },
+        {
+          "question": "The Charity fundraiser team hid 190 goodies. The Lopez twins each found 27 goodies. All the other go",
+          "reference_answer": 126,
+          "predicted_answer": 126,
+          "is_correct": true
+        },
+        {
+          "question": "Kimia is trying to decide whether to do her business accounting herself or hire one bookkeeper. If s",
+          "reference_answer": 600,
+          "predicted_answer": 600,
+          "is_correct": true
+        },
+        {
+          "question": "The Williams family is busy making muffins. So far, they've made 9950 muffins. They have 1555 bluebe",
+          "reference_answer": 5531,
+          "predicted_answer": 5531,
+          "is_correct": true
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "timestamp": "2025-12-01T12:41:08.572473",
+    "mmlu_cf_sample_size": 100,
+    "gsm_symbolic_sample_size": 50,
+    "temperature": 0,
+    "random_seed": 42
+  }
+}
